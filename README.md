@@ -1,5 +1,5 @@
 # hello-world
-A quick test on pull request workflow with [Github Tutorial](https://guides.github.com/activities/hello-world/) and (Github Flow)[https://guides.github.com/introduction/flow/]. 
+A quick test on pull request workflow with [Github Tutorial](https://guides.github.com/activities/hello-world/) and [Github Flow](https://guides.github.com/introduction/flow/). 
 
 ## Steps on Self Development Workflow:  
 - create a new branch of current repository   
